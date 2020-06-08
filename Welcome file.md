@@ -1,6 +1,7 @@
 ## i3wm configuration
 This repository includes my version of i3 config file
-please note that my setup is based on manjaro i3 which has a few packages pre configured (eg. volume control with ALSA 
+Please note that my setup is based on manjaro i3 which has a few packages pre configured (eg. volume control with ALSA and Pulse Audio)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3Njg2OTIwXX0=
+eyJoaXN0b3J5IjpbMTUxNDMzMjAzNV19
 -->
